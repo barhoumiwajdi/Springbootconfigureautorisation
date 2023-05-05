@@ -24,7 +24,6 @@ class SecurityConfiguration  {
                 .password("blah")
                 .roles("client");
 
-
     }
 
     @Bean
